@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sara!
 
-<!--
-**spulidori/spulidori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc Data Science and Business Analytics student at Bocconi, interested in NLP, simulation modeling, network analysis, and computational social science.
 
-Here are some ideas to get you started:
+My projects combine machine learning, statistical modeling, and social data to study political discourse, digital platforms, and behavioral systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+- **Italian Political Discourse NLP**  
+  Multilingual NLP analysis of Italian parliamentary and UN speeches using BERT stance classification, LDA topic modeling, and hierarchical summarization.
+
+- **Dating App STI Network Model**  
+  Agent-based simulation of STI transmission in dating-app contact networks, modeling assortative matching, hub formation, and SEIS disease dynamics.
