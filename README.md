@@ -16,6 +16,3 @@ My projects combine machine learning, statistical modeling, and social data to s
 - Reproducible simulation and model evaluation
 - NLP evaluation and multilingual generation
 - Computer vision with YOLOv8 and PyTorch
-
-## Availability
-Seeking a full-time curricular internship from January 2027 for 6-12 months in Northern Italy or Switzerland. Italian/EU citizen
