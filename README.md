@@ -37,4 +37,4 @@ Python · PyTorch · scikit-learn · NetworkX · statsmodels · SQL
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/your-handle) · [email@example.com](mailto:email@example.com)
+[LinkedIn](https://www.linkedin.com/in/sara-pulidori) · [pulidori.sara@gmail.com](mailto:pulidori.sara@gmail.com)
