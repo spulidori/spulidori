@@ -4,8 +4,6 @@ MSc student in Data Science & Business Analytics at **Bocconi University** (Mila
 I build and evaluate models of social and economic systems: agent-based simulation,
 network science, multilingual NLP, and machine learning for finance.
 
-[Optional: Currently looking for internships in Data Science and NLP, starting January 2027.
-
 ## Selected projects
 
 - **[Italian Political Discourse NLP](https://github.com/spulidori/italian-political-discourse-nlp)**
