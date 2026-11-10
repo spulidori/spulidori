@@ -10,8 +10,6 @@ I use data and statistical models to study **language data development, how netw
 
 ## 🧰 Technical toolkit
 
-![Python, PyTorch, scikit-learn, Git and Linux](https://skillicons.dev/icons?i=py,pytorch,sklearn,git,linux&theme=light)
-
 | Area | Tools & methods |
 | :--- | :--- |
 | **Programming & data** | Python · SQL · pandas · NumPy · SciPy |
